@@ -25,6 +25,7 @@ body {
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.6);
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+  
 }
 
 .quote-text {
@@ -83,6 +84,13 @@ button:active {
   width: 120px;
   height: 120px;
   animation: spin 2s linear infinite;
+}
+
+.footer {
+  margin-top: 35px;
+}
+.ad-banner {
+  margin-top: 0px;
 }
 
 @keyframes spin {
